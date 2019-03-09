@@ -1,0 +1,2 @@
+# Restaurant_service_system
+利用Qt开发的餐厅管理系统
